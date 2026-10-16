@@ -13,3 +13,11 @@ apps/desktop/build-resources/
 .env*
 !.env.example
 .playwright-mcp/
+
+node_modules/
+dist/
+build/
+.output/
+.env*
+!.env.example
+*.log

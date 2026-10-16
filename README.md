@@ -1,3 +1,7 @@
+# Privora Workspace repository
+
+Standalone app extracted with history from [MohammedSafwan10/ai](https://github.com/MohammedSafwan10/ai). Desktop and static marketing stay in the original repository. Run commands from this repository root: `npm ci; npm run dev; npm run lint; npm run build`.
+
 # Privora Workspace
 
 Privora Workspace is the browser AI workspace app. It is separate from the SaaS website in `apps/web` and separate from the Electron desktop app in `apps/desktop`.
