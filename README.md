@@ -1,6 +1,6 @@
 # Privora Workspace repository
 
-Standalone app extracted with history from [MohammedSafwan10/ai](https://github.com/MohammedSafwan10/ai). Desktop and static marketing stay in the original repository. Run commands from this repository root: `npm ci; npm run dev; npm run lint; npm run build`.
+Standalone app extracted with history from [privora-desktop](https://github.com/MohammedSafwan10/privora-desktop). Desktop and static marketing stay in that repository. Run commands from this repository root: `npm ci; npm run dev; npm run lint; npm run build`.
 
 # Privora Workspace
 
